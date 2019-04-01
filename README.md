@@ -1,2 +1,2 @@
-# Lambda-Function-using-PyAIML
-Using Slack Event API
+# Lambda-Function-AI
+Using Slack Event API and PyAIML
